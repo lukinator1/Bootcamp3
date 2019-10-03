@@ -1,0 +1,3 @@
+link to screenshot of database (with corrected entries number): https://pasteboard.co/IAcWETm.png
+I forgot to upload my config.js into canvas so I have it as a config.txt here.
+The reflection is in the comments at the top of listings.server.controller.js.
